@@ -7,17 +7,16 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Joshua Mantos
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Joshua Mantos
+headline: Mechanical Engineering Graduate
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mechanical Engineering graduate with a strong foundation in mechanical systems, technical problem-solving, equipment maintenance, and industrial practices. Possess hands-on experience in machinery maintenance and troubleshooting, along with customer service experience that developed strong communication, teamwork, and interpersonal skills. Adaptable, detail-oriented, and eager to apply technical knowledge and contribute to a professional engineering environment.
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
